@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bc5d4298a49fb14a9f8a43746a50f7e, type: 3}
+  m_Name: StandardPatternPack
+  m_EditorClassIdentifier: 
+  patterns:
+  - {fileID: 21300000, guid: c10e90f2f99470a4898ad0158b052543, type: 3}
+  - {fileID: 21300000, guid: 2b80eb6d50d190840b215a5f16bb3919, type: 3}
+  - {fileID: 21300000, guid: c3cff7072b9181240a89f77788e99c58, type: 3}
+  - {fileID: 21300000, guid: 38ec1f605d5cbea48be05aaface7180e, type: 3}
