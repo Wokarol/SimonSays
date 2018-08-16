@@ -17,7 +17,7 @@ public class HearthTextManager : MonoBehaviour {
 		if(PlayerPrefs.GetString("DifficultyLevel") == "1H") {
 			textMesh.text = "";
 		} else if (PlayerPrefs.GetString("DifficultyLevel") == "3H") {
-			textMesh.text = "3<sprite=1>";
+			textMesh.text = "3 <sprite=1>";
 		} else if(PlayerPrefs.GetString("DifficultyLevel") == "RegH") {
 			textMesh.text = "<sprite=1>";
 		}
@@ -33,7 +33,7 @@ public class HearthTextManager : MonoBehaviour {
 		} else if (regenable && value <= 0) {
 			textMesh.text = "<sprite=0>";
 		} else {
-			textMesh.text = value + "<sprite=1>";
+			textMesh.text = value + " <sprite=1>";
 		}
 	}
 }
