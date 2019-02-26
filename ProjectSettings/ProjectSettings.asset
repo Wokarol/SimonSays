@@ -44,7 +44,7 @@ PlayerSettings:
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
   defaultScreenWidthWeb: 960
-  defaultScreenHeightWeb: 600
+  defaultScreenHeightWeb: 540
   m_StereoRenderingPath: 0
   m_ActiveColorSpace: 0
   m_MTRendering: 1
@@ -643,7 +643,7 @@ PlayerSettings:
   apiCompatibilityLevel: 2
   cloudProjectId: 51fce038-cd6c-46ab-a47f-a82a14159b4e
   projectName: Memory Game
-  organizationId: wokarol
+  organizationId: wokarol-s-games
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
